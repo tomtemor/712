@@ -4,7 +4,8 @@
 
   Gjort enligt tutorialen och lagt till en av "homework"-grejerna, 
   "Broadcast a message to connected users when someone connects or disconnects."
-*/
+Gjorde hela programmet på en gång så inte så många github-updates..
+  */
 
 // skapar en server på det vanliga sättet
 const express = require("express");
